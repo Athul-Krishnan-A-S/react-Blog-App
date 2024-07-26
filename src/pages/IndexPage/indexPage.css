@@ -1,0 +1,10 @@
+.app-blogPosts{
+    width: 60%;
+    padding-block: 5rem;
+    margin:0 auto;
+    z-index: 1;
+  }
+  .app-footer{
+    width: 60%;
+    margin:0 auto;
+  }
