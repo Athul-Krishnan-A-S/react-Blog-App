@@ -1,0 +1,31 @@
+.header-category{
+    color: #115FD6;
+    font-size: 1rem;
+}
+.header-title{
+    font-size: 2.5rem;
+    width: 60%;
+}
+.header-box{
+    display: flex;
+    gap: 2rem;
+    width: 100%;
+    place-items: center;
+}
+.AddButton{
+    background-color: #115FD6;
+    border-radius: 30px;
+    padding: .5rem;
+    color: white;
+    cursor: pointer;
+}
+
+.header-modal{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.384);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+}

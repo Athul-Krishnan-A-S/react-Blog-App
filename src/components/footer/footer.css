@@ -1,0 +1,35 @@
+.footer-related-article-img-container{
+    width: 60%;
+}
+.footer-related-article-img{
+    width: 100%;
+    object-fit: cover;
+}
+.footer-related-articles-card{
+    display: flex;
+    gap: 1rem;
+}
+.footer-related-article-contents{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.footer-related-article-contents p:nth-child(2){
+    font-size: 2rem;
+}
+.footer-container p:nth-child(1){
+    font-size: 1.5rem;
+}
+.footer-related-articles-container p:nth-child(1){
+    font-size: 1rem;
+}
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+.footer-related-articles-container{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}

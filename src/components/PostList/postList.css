@@ -1,0 +1,9 @@
+.postList-blogs-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+}
+.blogPosts-cards{
+    cursor: pointer;
+    z-index: 1;
+}
