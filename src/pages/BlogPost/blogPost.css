@@ -1,0 +1,53 @@
+.blogPost-author-image {
+    aspect-ratio: 1/1;
+    width: 3%;
+}
+.blogPost-author-details{
+    display: flex;
+    place-items: center;
+    gap: 1rem;
+    color: #083983;
+}
+.blog-image{
+    width: 100%;
+}
+.blogPost-container{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.blogPost-content{
+    text-align: justify;
+}
+.blogPost-contents-container{
+    width: 60%;
+}
+.blogPost-two-cols{
+    display: flex;
+    gap: 3rem;
+}
+.blogPost-popular-posts-container{
+    width: 40%;
+}
+.blogPost-popularPosts-card-img-container{
+    width: 35%;
+}
+.blogpost-popularPosts-card-img{
+    width: 100%;
+}
+.blogPost-popularPosts-card{
+    display: flex;
+    gap: 0.5rem;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.39);
+    padding-bottom: 1rem;
+}
+.blogPosts-popularPosts-card-content p:nth-child(2){
+    color: #051938;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.blogPost-posts{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
